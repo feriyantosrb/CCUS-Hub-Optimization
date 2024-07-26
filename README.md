@@ -1,5 +1,6 @@
 # CCUS-Hub-Optimization
 Optimization of Carbon Capture, Utilization, and Storage (CCUS) Hub : A Case Study in South Sumatra Indonesia
+
 **Abstract**
 Currently, Indonesia is striving to increase oil and gas production to reach a target of 1 million BOPD of oil and 12 BSCFD of gas by 2030. However, at the same time Indonesia pledged to reduce CO2eq emissions by 31.89% to 43.20% or equivalent to 912 MtCO2 up to 1235.5 MtCO2 by 2030 in alignment with the goal of Net Zero Emission (NZE) by 2060. Carbon Capture, Utilization, and Storage (CCUS) could be a promising strategy to achieve these dual objectives. However, implementing commercial-scale CCUS technology requires substantial infrastructure deployment and complex design considerations, including source selection, reservoir assessment, and pipeline routing. Therefore, this study proposed an optimization platform, DecarbonSystem, to facilitate the understanding of CO2 sources and sinks availability, pipeline route optimization, selection of sources and sinks, estimation of maximum CO2 injection rate, and estimation of CO2 price that make the project economically feasible by integrating three main models (capture, surface, storage).
 
